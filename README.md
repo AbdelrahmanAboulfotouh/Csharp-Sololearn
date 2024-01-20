@@ -2,7 +2,7 @@
 
   ## Social Network
 - Topics : Class contractors and Properties.
-- Code   : https://github.com/AbdelrahmanAboulfotouh/Csharp-Sololearn/blob/main/C%23%20Intermediate/Social%20Network%20/SocialNetwork-solution.cs
+- Code   : (https://github.com/AbdelrahmanAboulfotouh/Csharp-Sololearn/blob/main/C%23%20Intermediate/Social%20Network%20/SocialNetwork-solution.cs)
 
 ## Words
 - Topics : Working with string class.
