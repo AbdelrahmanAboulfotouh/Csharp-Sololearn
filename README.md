@@ -1,6 +1,6 @@
 # C# Intermediate course Assignments 
 
-    ## Social Network
+## Social Network
   - Topics : Class contractors and Properties.
   - [Source Code](https://github.com/AbdelrahmanAboulfotouh/Csharp-Sololearn/blob/main/C%23%20Intermediate/Social%20Network%20/SocialNetwork-solution.cs)
   
